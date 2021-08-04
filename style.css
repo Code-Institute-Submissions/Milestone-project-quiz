@@ -1,0 +1,91 @@
+ body {
+     background-color: #303030;
+ }
+ /* Resetting page defaults */
+ * {
+     box-sizing: border-box;
+     margin: 0;
+     padding: 0;
+     /* font-size is set to 62.5% to make rem measurements in degrees of 5 */
+     font-size: 62.5%;
+     font-family:'Roboto Mono', monospace;
+ }
+
+ h1 {
+     font-size: 5.4rem;
+     color: white;
+     margin-bottom: 5rem;
+ }
+
+ h2 {
+     font-size: 4.2rem;
+     margin-bottom: 4rem
+ }
+
+ .container {
+     width: 100vw;
+     height: 100vh;
+     display: flex;
+     justify-content: center;
+     align-items: center;
+     max-width: 80rem;
+     margin: 0 auto;
+     padding: 2rem;
+ }
+
+ .column {
+     display: flex;
+     flex-direction: column;
+ }
+
+ .center {
+     justify-content: center;
+     align-items: center;
+ }
+
+ .center-justify {
+     justify-content: center;
+ }
+
+ .text-center {
+     text-align: center;
+ }
+
+ .hidden {
+     display: none;
+ }
+
+ .btn {
+     font-size: 2.4rem;
+     padding: 2rem 0;
+     width: 30rem;
+     text-align: center;
+     margin-bottom: 1rem;
+     text-decoration: none;
+     /* classic computer terminal green */
+     color: #41FF00;
+     border: 0.4mm dashed #41FF00;
+ }
+
+ .btn:hover {
+     cursor: pointer;
+     box-shadow: 0 0.4rem 1.4rem 0 #41FF00;
+     transition: transform 3ms;
+     transform: scale(1.03);
+ }
+
+ .btn[:disabled]:hover {
+     cursor: no-allowed;
+     box-shadow: none;
+     transform: none;
+ }
+
+ .fa-play {
+    font-size: 3rem;
+    margin-left: 1rem;
+ }
+
+ .fa-diamond {
+     font-size: 3rem;
+     margin-left: 1rem;
+ }

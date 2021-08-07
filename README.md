@@ -19,10 +19,6 @@ Jack Pitman - CI Sudent - PitmanJack2@gmail.com
 * JavaScript (JS) <br>
     The JS files included are game.js, end.js, highscores.js
 
-### Code Style:
-
-Standard
-
 ## Features:
 
 ### Home Page:
@@ -81,3 +77,17 @@ HTML Validator : https://validator.w3.org/#validate_by_upload <br>
 CSS Validator : https://jigsaw.w3.org/css-validator/#validate_by_upload <br>
 JS Validator : https://jshint.com/ <br>
 Markdown Reference : https://wordpress.com/support/markdown-quick-reference/<br>
+Font Awesome Icons : https://fontawesome.com/v4.7/ <br> 
+
+## External Code Used:
+
+*style.css line 82* - https://www.w3schools.com/css/css3_buttons.asp <br>
+*game.css line 32-38* - https://stackoverflow.com/questions/51317187/getting-css-buttons-to-turn-green-on-click-and-remain-green <br> 
+*Progress Bar* - https://www.w3schools.com/howto/howto_js_progressbar.asp, https://www.youtube.com/watch?v=4LBRMSk6PLY <br>
+*Document.querySelector()* - https://developer.mozilla.org/en-US/docs/Web/API/Document/querySelector <br>
+*localStorage* - https://blog.logrocket.com/localstorage-javascript-complete-guide/ <br>
+*JSON.parse* - https://www.w3schools.com/js/js_json_parse.asp
+
+### Code Style:
+
+Standard

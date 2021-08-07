@@ -35,7 +35,7 @@ Green text with green dotted border are readable and keep with the monochrome mo
 ![Question](/screenshots/question.png)
 
 ### Question Counter
-* The question counter displays the amount of questions that are in the quiz and shows how many are left, the counter is updated when the user answers a question. The green progress bar below gives the user a visual aid and corresponds with the question counter,the progress bar is also automatically updated when the user selects an answer
+* The question counter displays the amount of questions that are in the quiz and shows how many are left, the counter is updated when the user answers a question. The green progress bar below gives the user a visual aid and corresponds with the question counter,the progress bar is also automatically updated when the user selects an answer <br>
 ![Question Counter](/screenshots/question-counter.png)
 
 ### Score Keeper
@@ -62,3 +62,22 @@ Green text with green dotted border are readable and keep with the monochrome mo
 * Once you have created your username and gotten your score you can check your position in the leaderboards.
 ![Leaderboard](/screenshots/leaderboard.png)
 
+
+## Validation:
+* HTML Validator : https://validator.w3.org/#validate_by_upload <br>
+    The HTML files passed the validator and turned up no errors
+
+* CSS Validator : https://jigsaw.w3.org/css-validator/#validate_by_upload <br>
+    The CSS files passed the validator and turned up no errors
+
+* JS Validator : https://jshint.com/ : <br>
+    The JS files passed the validator and turned up with no significant issues.
+
+
+## Assets Used:
+
+Colour picker : https://www.w3schools.com/colors/colors_picker.asp <br>
+HTML Validator : https://validator.w3.org/#validate_by_upload <br>
+CSS Validator : https://jigsaw.w3.org/css-validator/#validate_by_upload <br>
+JS Validator : https://jshint.com/ <br>
+Markdown Reference : https://wordpress.com/support/markdown-quick-reference/<br>

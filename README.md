@@ -91,3 +91,7 @@ Font Awesome Icons : https://fontawesome.com/v4.7/ <br>
 ### Code Style:
 
 Standard
+
+## Deployment
+
+Code Institute Portfolio 2: Project Example Idea 2 "Build an Online Quiz" was deployed to Github Pages
